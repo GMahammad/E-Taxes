@@ -11,7 +11,7 @@
 // @exclude      https://new.e-taxes.gov.az/eportal/az/invoice/view/*
 // @icon         https://qaime.e-taxes.gov.az/assets/images/placeholder.jpg
 // @connect
-// ==/UserScript==
+// ==UserScript==
 (function () {
     'use strict';
 
